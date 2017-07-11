@@ -1,0 +1,107 @@
+body {
+	background-color: #9e9fab;
+	color: #fff;
+}
+
+.container {
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #6b6868;
+}
+
+.header {
+	height: 85px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.logo {
+	width: 76px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+.right {
+	display: flex;
+	justify-content: flex-end;
+}
+
+
+.facebook {
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+.lineat {
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+.info {
+	margin-top: 5px;
+	margin-right: 5px;
+}
+
+.info ul li {
+	padding-top: 5px;
+
+
+}
+
+.slideshow {
+	width: 900px;
+	height: 335px;
+	border-top: 3px solid #000;
+	border-bottom: 3px solid #000;
+}
+
+.menu {
+	border-bottom: 1px solid #000;
+	width: 900px;
+	height: 25px;
+	background-color: #363636;
+	padding-top: 10px;
+	}
+
+	.menu a {
+		margin-left: 15px;
+	}
+
+	.menu01{
+		width: 900px;
+		height:145px;
+		border-bottom: 3px solid #000;
+	}
+
+	.menu1 {
+		box-shadow: 2px 2px  #222222;
+		margin-left: 10px;
+		margin-top:30px;
+	}
+
+	.menu1:hover{
+		box-shadow: 3px 3px  #000000;
+	}
+
+	.social{
+		width: 900px;
+		height:320px;
+		border-bottom: 3px solid #000;
+		background: #959595;
+	}
+	#iframe1 {
+				margin-left: 15px;
+				margin-top: 5px;
+
+	}
+	#iframe2{
+			margin-left: 15px;
+			margin-top: 5px;
+	}
+
+	.babbaan{
+		width: 900px;
+		height:445px;
+		background:#6b6868;
+	}
