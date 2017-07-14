@@ -51,7 +51,7 @@ body {
 
 .slideshow {
 	width: 900px;
-	height: 335px;
+	height: 370px;
 	border-top: 3px solid #000;
 	border-bottom: 3px solid #000;
 }
@@ -59,7 +59,7 @@ body {
 .menu {
 	border-bottom: 1px solid #000;
 	width: 900px;
-	height: 25px;
+	height: 40px;
 	background-color: #363636;
 	padding-top: 10px;
 	}
@@ -181,3 +181,6 @@ body {
 	.mapbr iframe{
 		margin-top: 10px;
 	}
+ .pomslide {
+	 margin-bottom: 180px;
+ }
