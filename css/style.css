@@ -88,7 +88,7 @@ body {
 		width: 900px;
 		height:320px;
 		border-bottom: 3px solid #000;
-		background: #959595;
+		background: #9e9fab;
 	}
 	#iframe1 {
 				margin-left: 15px;
@@ -151,4 +151,33 @@ body {
 	.mp{
 		box-shadow: 3px 3px  #000000;
 		margin-top: 25px;
+	}
+	.mapssk{
+		float: left;
+		width: 420px;
+		height:360px;
+		background-color: #000000;
+		margin-top: 20px;
+		margin-left: 20px;
+	}
+	.mapssk center {
+		margin-top: 10px;
+		margin-top: 10px;
+	}
+	.mapbr{
+		margin-right: 20px;
+		margin-top: 20px;
+		float: right;
+		width: 420px;
+		height:360px;
+		background-color: #000000;
+	}
+	.mapbr center {
+		margin-top: 10px;
+	}
+	.mapssk iframe{
+		margin-top: 10px;
+	}
+	.mapbr iframe{
+		margin-top: 10px;
 	}
