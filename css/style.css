@@ -44,7 +44,8 @@ body {
 }
 
 .info ul li {
-	padding-top: 5px;
+	padding-top: 3px;
+	font-size: 15;
 
 
 }
@@ -64,43 +65,43 @@ body {
 	padding-top: 10px;
 	}
 
-	.menu a {
+.menu a {
 		margin-left: 15px;
 	}
 
-	.menu01{
+.menu01{
 		width: 900px;
 		height:145px;
 		border-bottom: 3px solid #000;
 	}
 
-	.menu1 {
+.menu1 {
 		box-shadow: 2px 2px  #222222;
 		margin-left: 10px;
 		margin-top:30px;
 	}
 
-	.menu1:hover{
+.menu1:hover{
 		box-shadow: 3px 3px  #000000;
 	}
 
-	.social{
+.social{
 		width: 900px;
 		height:320px;
 		border-bottom: 3px solid #000;
 		background: #9e9fab;
 	}
-	#iframe1 {
+#iframe1 {
 				margin-left: 15px;
 				margin-top: 5px;
 
 	}
-	#iframe2{
+#iframe2{
 			margin-left: 15px;
 			margin-top: 5px;
 	}
 
-	.babbaan{
+.babbaan{
 		width: 900px;
 		height:445px;
 		background:#6b6868;
@@ -108,29 +109,32 @@ body {
 		border-top: 10px solid #363636;
 	}
 
-	#textbb{
+#textbb{
 		color: #000;
 		font-size: 30;
 	}
-	.inbaan {
+.inbaan {
 		margin-top:20px;
 	}
-	.imgbb{
+.imgbb{
 		width: 270px;
 		height: 150px;
 		margin-left: 10px;
 	}
-	.inbaan img{
+	.showimg{
+		width: 609;
+		height: 1024;
+	}
+.inbaan img{
 		padding-top: 20px;
 	}
-
-	.we_tb{
+.we_tb{
 		width: 900px;
 		height:320px;
 		background-color: #464646;
 		border-bottom: 10px solid #363636;
 	}
-	.we{
+.we{
 		float:right;
 		margin-top: 25px;
 		margin-right: 5px;
@@ -138,7 +142,7 @@ body {
 	.tb{
 		float: left;
 		width: 460px;
-		height:310px;
+		height:300px;
 		margin-top: 5px;
 		margin-left: 10px;
 	}
