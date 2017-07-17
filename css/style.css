@@ -129,6 +129,13 @@ body {
 		border-bottom: 10px solid #363636;
 		border-top: 10px solid #363636;
 	}
+	.wepage{
+		width: 800px;
+		height:650px;
+		background:#6b6868;
+		border-bottom: 10px solid #363636;
+		border-top: 10px solid #363636;
+	}
 
 #textbb{
 		color: #000;
